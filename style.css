@@ -20,7 +20,7 @@ body {
 }
 
 .toggle:before {
-  content: 'MANUAL';
+  content: 'ON';
   position: relative;
   left: -56px;
   top: 30px;
@@ -30,7 +30,7 @@ body {
 }
 
 .toggle:after {
-  content: 'AUTOMATIC';
+  content: 'OFF';
   position: relative;
   right: -46px;
   top: 30px;
